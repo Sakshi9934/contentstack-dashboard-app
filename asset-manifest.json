@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sakshi9934/contentstack-dashboard-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Sakshi9934/contentstack-dashboard-app/static/js/main.21cc2e70.js",
+    "static/js/453.8cd3cc18.chunk.js": "/Sakshi9934/contentstack-dashboard-app/static/js/453.8cd3cc18.chunk.js",
+    "index.html": "/Sakshi9934/contentstack-dashboard-app/index.html",
+    "main.e6c13ad2.css.map": "/Sakshi9934/contentstack-dashboard-app/static/css/main.e6c13ad2.css.map",
+    "main.21cc2e70.js.map": "/Sakshi9934/contentstack-dashboard-app/static/js/main.21cc2e70.js.map",
+    "453.8cd3cc18.chunk.js.map": "/Sakshi9934/contentstack-dashboard-app/static/js/453.8cd3cc18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.21cc2e70.js"
+  ]
+}
